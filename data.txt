@@ -6,4 +6,4 @@ aaaaaaa bbbbbbbbb abcd abcd klmn
 task2:
 56 23 1 4 1 5 9 2 76 34
 task4:
-100
+10
